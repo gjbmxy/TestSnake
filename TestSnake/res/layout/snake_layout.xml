@@ -11,6 +11,8 @@
                 android:background="@color/teneight"
                />
 	
+	
+	
 	<RelativeLayout
 		android:layout_width="fill_parent"
 		android:layout_height="fill_parent" >
@@ -31,7 +33,7 @@
 	        
 		    android:layout_marginTop="10px"
 		    android:gravity="bottom"
-	        android:text="点击这开始作"/>
+	        android:text="点击开始游戏"/>
 	</RelativeLayout>
 	<AbsoluteLayout
 	    android:layout_width="fill_parent"
