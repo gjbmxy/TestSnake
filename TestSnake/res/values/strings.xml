@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snake</string>
+    <string name="mode_ready"></string>
+    <string name="mode_pause"></string>
+    <string name="mode_lose_prefix"></string>
+    <string name="mode_lose_suffix"></string>
+    <string name="snake_layout_text_text"></string>
+
+</resources>
